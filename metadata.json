@@ -1,0 +1,7 @@
+{
+  "name": "CourierLoadManager",
+  "description": "Mobile portal for Leopards and PostEx loadsheet generation with barcode scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
